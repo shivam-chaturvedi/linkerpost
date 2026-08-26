@@ -1,0 +1,44 @@
+# Linker Post
+
+> LinkedIn-first content control center: research trends, draft with AI, schedule posts, and publish across multiple LinkedIn accounts.
+
+## Product
+
+Linker Post helps creators, founders, and teams stay consistent on LinkedIn.
+
+Core capabilities:
+- Connect LinkedIn accounts with OAuth (encrypted tokens; no LinkedIn passwords stored)
+- Compose drafts (text, image, video, document, article)
+- Schedule and publish posts (including background publishing for due posts)
+- AI Content Planner (agentic research + LangGraph) for multi-day calendars
+- Rewrite drafts with AI
+- Content calendar, library, and in-app assistant
+
+## Public pages
+
+- Home: https://linkerpost.vercel.app/
+- LinkedIn Post Generator: https://linkerpost.vercel.app/linkedin-post-generator
+- LinkedIn Post Scheduler: https://linkerpost.vercel.app/linkedin-post-scheduler
+- AI LinkedIn Content Planner: https://linkerpost.vercel.app/ai-linkedin-content-planner
+- LinkedIn Content Calendar: https://linkerpost.vercel.app/linkedin-content-calendar
+- LinkedIn AI Writer: https://linkerpost.vercel.app/linkedin-ai-writer
+- Multiple LinkedIn Account Manager: https://linkerpost.vercel.app/multiple-linkedin-account-manager
+- Sign up: https://linkerpost.vercel.app/signup
+- Sign in: https://linkerpost.vercel.app/login
+- Help: https://linkerpost.vercel.app/help
+- Privacy Policy: https://linkerpost.vercel.app/privacy-policy
+- Terms of Service: https://linkerpost.vercel.app/terms-of-service
+- Pricing: https://linkerpost.vercel.app/pricing
+
+## How content ideas work
+
+Users can ask the AI to research what is trending and turn topics into LinkedIn posts. Examples of angles include entertainment (Dolly Parton, Miley Cyrus, Witcher 3, GTA 6), sports (Dodgers vs Braves, Tiger Woods, US Open), technology and business (Meta stock, humanoid robots, Bill Gates), or news and current events (elections, solar flares, climate patterns). Trends are optional prompts. Users choose topics relevant to their audience.
+
+## Contact
+
+Support: linkerpost3@gmail.com (or the address configured via VITE_SUPPORT_EMAIL)
+
+## Optional
+
+- Sitemap: https://linkerpost.vercel.app/sitemap.xml
+- Robots: https://linkerpost.vercel.app/robots.txt

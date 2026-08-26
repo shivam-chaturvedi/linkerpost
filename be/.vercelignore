@@ -1,0 +1,33 @@
+# Never upload local Python env or caches to Vercel
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.mypy_cache/
+**/.mypy_cache/
+.pytest_cache/
+**/.pytest_cache/
+.ruff_cache/
+**/.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+**/.cache/
+dist/
+build/
+*.egg-info/
+.vercel/
+.python-version
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Local-only
+tests/
+README.md
+Dockerfile
